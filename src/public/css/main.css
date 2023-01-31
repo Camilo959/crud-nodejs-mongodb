@@ -1,0 +1,13 @@
+body {
+    background: rgb(49,49,49);
+    background: linear-gradient(90deg, rgba(49,49,49,1) 0%, rgba(47,47,47,1) 100%);
+}
+
+.bg-black {
+    background: rgb(16,16,19);
+    background: linear-gradient(90deg, rgba(16,16,19,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+.inputPlaceholder::-webkit-input-placeholder {
+    color: gray;
+}
